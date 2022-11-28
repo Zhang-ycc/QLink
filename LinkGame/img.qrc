@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/11.png</file>
+        <file>images/12.png</file>
+        <file>images/13.png</file>
+        <file>images/14.png</file>
+        <file>images/101.png</file>
+        <file>images/102.png</file>
+        <file>images/103.png</file>
+        <file>images/104.png</file>
+        <file>images/0 .png</file>
+        <file>images/if.jpg</file>
+        <file>images/1000.png</file>
+        <file>images/1001.png</file>
+        <file>images/1002.png</file>
+        <file>images/1003.png</file>
+        <file>images/1004.png</file>
+        <file>images/1005.png</file>
+        <file>images/10001.png</file>
+        <file>images/10002.png</file>
+        <file>images/10000.png</file>
+        <file>images/10003.png</file>
+        <file>images/10004.png</file>
+        <file>images/21.png</file>
+        <file>images/22.png</file>
+        <file>images/23.png</file>
+        <file>images/24.png</file>
+        <file>images/5.png</file>
+        <file>images/6.png</file>
+        <file>images/7.png</file>
+        <file>images/15.png</file>
+        <file>images/16.png</file>
+        <file>images/17.png</file>
+        <file>images/18.png</file>
+        <file>images/19.png</file>
+        <file>images/25.png</file>
+        <file>images/26.png</file>
+        <file>images/27.png</file>
+        <file>images/28.png</file>
+        <file>images/29.png</file>
+        <file>images/105.png</file>
+        <file>images/106.png</file>
+        <file>images/107.png</file>
+        <file>images/108.png</file>
+        <file>images/109.png</file>
+        <file>images/8.png</file>
+        <file>images/9.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>in.txt</file>
+    </qresource>
+</RCC>
